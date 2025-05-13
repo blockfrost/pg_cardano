@@ -5,6 +5,3 @@
 /pg_cardano
 *.iml
 **/*.rs.bk
-Cargo.lock
-
-
